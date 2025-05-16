@@ -2,6 +2,14 @@
 
 Exploring the inner workings of transformer-based language models by creating a GPT-2 clone referencing the original GPT-2 paper, using 300M tokens from the FineWeb-EDU dataset. This repository documents my journey in building, training, and evaluating a generative language model using PyTorch.
 
+##  Notebook Access
+
+You can view and run the full training notebook on Google Colab:
+
+🔗 [Open in Colab](https://colab.research.google.com/drive/1CeVZrxPS605bKVKaoh_3NJqzUE266Z0D?usp=sharing)
+
+> ⚠️ Note: GitHub may not render the notebook properly due to metadata issues. For the best experience, use the Colab link above.
+
 ##  Project Overview
 
 This project demonstrates:
